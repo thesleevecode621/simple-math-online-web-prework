@@ -25,5 +25,5 @@ def square_root(num)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-  puts  _num1_ + (( num2__ * _num3_ ) / _num4_ )
+num1+ (( num2 * num3 ) / num4 )
 end
